@@ -65,8 +65,4 @@ The code will:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README as needed, and ensure you connect the components correctly before running the code.
+This project is free to use, modify, and reuse for personal or commercial purposes. No attribution is required.
