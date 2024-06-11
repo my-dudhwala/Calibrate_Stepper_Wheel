@@ -17,7 +17,7 @@ This project aims to precisely calibrate the position of a stepper motor using a
 
 ## Components
 
-- Arduino board (e.g., Arduino Uno)
+- ESP32(I am using ESP32(Assume Arduino word as my ESP32 here), you can use any other board from Arduino IDE, just remeber to set the GPIO)
 - Stepper motor
 - Hall effect sensor
 - Magnet
